@@ -33,7 +33,7 @@ class Jobs extends React.Component {
               paragraph:
                 this.props.forceIsCompany || isCompany
                   ? 'Want to join our team?'
-                  : 'Companies building the HOPR ecosystem',
+                  : 'Currently we‘re offering the following positions',
             }}
             className="center-content"
           />
